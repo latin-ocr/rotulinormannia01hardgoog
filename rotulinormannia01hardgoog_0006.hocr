@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./rotulinormannia01hardgoog_0006.png"; bbox 0 0 3444 5950; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 799 2103 2091 2277">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 799 2103 2091 2277">
+     <span class='ocr_line' id='line_1_1' title="bbox 799 2103 2091 2277; baseline -0.005 -2"><span class='ocrx_word' id='word_1_1' title='bbox 799 2103 1238 2274; x_wconf 51' lang='lat' dir='ltr'>&#39;&#39;istotuli</span> <span class='ocrx_word' id='word_1_2' title='bbox 1307 2152 2091 2277; x_wconf 60' lang='lat' dir='ltr'>stotmanm&#39;ac</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 551 2473 2367 2581">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 551 2473 2367 2581">
+     <span class='ocr_line' id='line_1_2' title="bbox 551 2473 2367 2581; baseline 0.001 -1"><span class='ocrx_word' id='word_1_3' title='bbox 551 2495 710 2580; x_wconf 88' lang='lat' dir='ltr'>IN</span> <span class='ocrx_word' id='word_1_4' title='bbox 835 2493 1326 2580; x_wconf 86' lang='lat' dir='ltr'><strong>TURRI.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1427 2473 2367 2581; x_wconf 82' lang='lat' dir='ltr'><strong>LOND&#39;INENSI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1261 2785 1680 2874">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1261 2785 1680 2874">
+     <span class='ocr_line' id='line_1_3' title="bbox 1261 2785 1680 2874; baseline -0.017 -8"><span class='ocrx_word' id='word_1_6' title='bbox 1261 2785 1680 2874; x_wconf 53' lang='lat' dir='ltr'>mamati,-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 699 3080 2186 3157">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 699 3080 2186 3157">
+     <span class='ocr_line' id='line_1_4' title="bbox 699 3080 2186 3157; baseline 0.001 -10"><span class='ocrx_word' id='word_1_7' title='bbox 699 3080 1167 3148; x_wconf 89' lang='lat' dir='ltr'><strong>·JOHANNE</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1213 3104 1295 3146; x_wconf 80' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_9' title='bbox 1343 3081 1771 3147; x_wconf 90' lang='lat' dir='ltr'>HENRICO</span> <span class='ocrx_word' id='word_1_10' title='bbox 1818 3080 2186 3157; x_wconf 87' lang='lat' dir='ltr'><strong>QUINTO</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1119 3320 1817 3371">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1119 3320 1817 3371">
+     <span class='ocr_line' id='line_1_5' title="bbox 1119 3320 1817 3371; baseline -0.004 -2"><span class='ocrx_word' id='word_1_11' title='bbox 1119 3320 1422 3371; x_wconf 80' lang='lat' dir='ltr'>ANGLIAE</span> <span class='ocrx_word' id='word_1_12' title='bbox 1475 3320 1817 3369; x_wconf 82' lang='lat' dir='ltr'><strong>REGIBUS.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
